@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **karunanagre22@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WIs_90B9U_nitP7UHb4E92v24El5eP25/edit?usp=sharing&ouid=108680832738870422608&rtpof=true&sd=true](https://docs.google.com/document/d/1WIs_90B9U_nitP7UHb4E92v24El5eP25/edit?usp=sharing&ouid=108680832738870422608&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1WIs_90B9U_nitP7UHb4E92v24El5eP25/edit?usp=sharing&ouid=108680832738870422608&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
