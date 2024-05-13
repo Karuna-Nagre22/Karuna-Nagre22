@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently **Seeking roles in data analysis and visualization**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/karunanagre](https://www.novypro.com/profile_projects/karunanagre)
+- 👨‍💻 All of my projects are available [Here](https://www.novypro.com/profile_projects/karunanagre)
 
 - 💬 Ask me about **Power BI**
 
