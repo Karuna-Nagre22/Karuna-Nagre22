@@ -10,11 +10,13 @@
 
 - 👨‍💻 All of my projects are available [Here](https://www.novypro.com/profile_projects/karunanagre)
 
-- 💬 Ask me about **Power BI**
+- 💬 Ask me about **Power BI**, **SQL**, **Python**
 
 - 📫 How to reach me **karunanagre22@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1WIs_90B9U_nitP7UHb4E92v24El5eP25/edit?usp=sharing&ouid=108680832738870422608&rtpof=true&sd=true)
+
+- 🎓Achievements Microsoft Certified Data Analyst [Check for Credentials](https://learn.microsoft.com/en-us/users/karunanagre-6084/credentials/8099d794a84bb705?ref=https%3A%2F%2Fwww.linkedin.com%2F) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
